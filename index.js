@@ -1,1 +1,1 @@
-console.log('Jenkins pipeline works');
+console.log('Jenkins pipeline works v.2');
